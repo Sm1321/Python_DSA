@@ -1,5 +1,4 @@
 # Python_DSA
 - Pratice Python Problems from other sources.
-- DSA
-- Python Codes
+- DSA.
 - 
