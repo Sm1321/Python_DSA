@@ -1,2 +1,2 @@
 # Python_DSA
-- Pratice Python Problems from other sources 
+- Pratice Python Problems from other sources.
