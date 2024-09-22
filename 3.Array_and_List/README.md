@@ -1,2 +1,2 @@
-# Python_DSA
-- Pratice Python Problems from other sources.
+- Pratice Python Problems on Lists
+- Problem from the other sources from sinternet.
