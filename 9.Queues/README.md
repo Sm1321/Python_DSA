@@ -1,2 +1,1 @@
-# Python_DSA
-- Pratice Python Problems from other sources.
+- Python Codes on the Queues
