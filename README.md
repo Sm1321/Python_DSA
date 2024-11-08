@@ -1,3 +1,3 @@
 # Python_DSA
 - Pratice Python Problems from other sources.
-- Added the Topics upto the TRees
+- Added the Topics upto the Trees
