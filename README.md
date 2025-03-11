@@ -4,8 +4,6 @@
 - Some Recusion Probelms are Added
 - Searching and Sorting will add more later
 - Added the Topics upto the Trees
-- Needed to update the searching and sorting files.
-
-
-- Added the Hashing and String Files here
+- Needed to update the searching and sorting files
+- Now , i will add hashing Concepts and Codes
 
